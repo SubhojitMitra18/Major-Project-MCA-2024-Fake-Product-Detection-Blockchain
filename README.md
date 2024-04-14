@@ -15,6 +15,7 @@
 ## Author:
 - **Subhojit Mitra**  
   [GitHub](https://github.com/SubhojitMitra18)
+  [LinkedIN](https://www.linkedin.com/in/subhojit-mitra-51b24b216/)
 
 ## Copyright
 © 2024 Subhojit Mitra. All Rights Reserved.
